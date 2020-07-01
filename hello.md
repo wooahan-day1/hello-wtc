@@ -1,6 +1,6 @@
 
 ## git clone
-+ 론컬에서의 git init에 해당하는 명령어입니다. 원격에서 저장소를 최초로 가져올 때는 git pull 대신 git clone을 쓰는 것입니다.
++ 로컬에서의 git init에 해당하는 명령어입니다. 원격에서 저장소를 최초로 가져올 때는 git pull 대신 git clone을 쓰는 것입니다.
 
 ## git add
 + 해당 파일을 추적(stage)시키는 명령어입니다. 추적되고 있는 파일만 커밋에 포함됩니다. 주로 git add . 의 형태로 사용합니다. 
